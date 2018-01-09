@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./zm --server us1-zcash.flypool.org --user t1ZDUbZ21BM7mFuzrkgVib3hqPkLiSaSPHZ.miner1 --pass x --port 3333 --cuda_devices 0
+./zm --server equihash.usa.nicehash.com --user 3AptGpt7vQpJU8cXqa4LkSKjvHwVGjcWqh.miner1 --pass x --port 33357 --cuda_devices 1
